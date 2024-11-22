@@ -33,7 +33,6 @@ com um **UUID** gerado automaticamente como nome do arquivo.
 
 ## Tecnologias Utilizadas
 
-- Tecnologias Utilizadas
 - AWS Lambda: Para processar as requisições.
 - Amazon S3: Para armazenar os arquivos JSON.
 - Java (versão 17)
